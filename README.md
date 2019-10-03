@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-The challenges that I faced where to generate the data.txt file. In the tutorial video, the instructor doesn't mention that you have to give permission to generate files. I had to read an article to know the pro and cons of internal storage and external storage. The rest of the tutorials where explain with clarity and they were practical. The main subject that interests me was the design pattern that he mentions (MVC). I read more about the Model-View-Controller because it sounds amazing how the design pattern will make production faster and the code cleaner so other programmers can analyze faster.
+The challenges that I faced where to generate the data.txt file. In the tutorial video, the instructor doesn't mention that you have to give permission to generate files. I had to read an article to know the pro and cons of internal storage and external storage. The rest of the tutorials where explain with clarity and they were practical. The main subject that interests me was the design pattern that he mentions (MVC). I read more about the Model-View-Controller because it sounds amazing how the design pattern will make production faster and the code cleaner so other programmers can analyze faster. I'm looking forward to learning more and being part of your team.
 
 ## License
 
