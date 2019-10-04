@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         this.etItem = findViewById(R.id.etItem);
         this.rvItems = findViewById(R.id.rvItems);
 
+
         //loadItems();
         this.items = new ArrayList<>();
         this.items.add("Buy milk");
@@ -119,7 +120,8 @@ public class MainActivity extends AppCompatActivity {
 
     public File getDataFile(){
 
-        return new File(getFilesDir(), "data.txt");
+       return new File(getFilesDir(), "data.txt");
+        //return new File(MainActivity.this.getFilesDir(), "data.txt");
     }
 
     //This function will load items by reading every line of the data file
