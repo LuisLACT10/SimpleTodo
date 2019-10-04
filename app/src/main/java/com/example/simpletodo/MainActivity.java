@@ -118,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public File getDataFile(){
+
         return new File(getFilesDir(), "data.txt");
     }
 
